@@ -1,3 +1,3 @@
 1.Update Repository
 
-Install Package Yang diperlukan
+2.Install Package Yang diperlukan
