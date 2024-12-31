@@ -1,4 +1,5 @@
 1.Update Repository
+#sudo apt update
 2.Install Package Yang diperlukan
 3.Tambah GPG Key
 4.Tambah Docker repository
